@@ -1,6 +1,6 @@
 <nav class="navbar navbar-expand-lg navbar-light bg-dark">
     <div class="container">
-        <a class="navbar-brand" href="{{route('home')}}"><h1><strong class="text-light">Store 1 2 3 4 5 6</strong></h1></a>
+        <a class="navbar-brand" href="{{route('home')}}"><h1><strong class="text-light">Store 1 2 3 4 5 6 7</strong></h1></a>
         <div class="collapse navbar-collapse" id="navbarNav">
             <!-- Left Side Of Navbar -->
             <ul class="navbar-nav category">
